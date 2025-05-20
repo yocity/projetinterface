@@ -4,8 +4,6 @@ Jeu de Bataille Navale en Java avec interface graphique (Swing), implémentant l
 
 ## Auteurs
 - **Yocoli Konan Jean Epiphane**  
-- **Fotso Kamel**  
-- **Li Jie**
 
 ---
 
