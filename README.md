@@ -2,7 +2,7 @@
 
 Jeu de Bataille Navale en Java avec interface graphique (Swing), implémentant le pattern MVC.
 
-## Auteurs
+## Auteur
 - **Yocoli Konan Jean Epiphane**  
 
 ---
